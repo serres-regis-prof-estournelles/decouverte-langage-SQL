@@ -7,7 +7,7 @@
 ## 📖 Description
 
 Ce projet pédagogique permet d'apprendre à manipuler des bases de données relationnelles à travers l'étude des **données géographiques françaises**.
-Les élèves créent une base SQLite contenant **36 229 villes** et **101 départements**, puis écrivent des **requêtes SQL** et des **scripts Python** pour interroger et analyser ces données.
+Les élèves créent une base SQLite contenant **plus de 36 000 villes** et **101 départements**, puis écrivent des **requêtes SQL** et des **scripts Python** pour interroger et analyser ces données.
 
 #
 
@@ -30,7 +30,7 @@ Les élèves créent une base SQLite contenant **36 229 villes** et **101 dépar
 
 #### **Table VILLE**
 
-- `num_ville` (PK)
+- `num_ville` (clé primaire)
 - `code_insee`
 - `region`
 - `nom`
@@ -39,13 +39,11 @@ Les élèves créent une base SQLite contenant **36 229 villes** et **101 dépar
 - `altitude`
 - `canton`
 - `codepostal`
-- `num_dep` (FK)
-
-#
+- `num_dep` (clé étrangère)
 
 #### **Table DEPARTEMENT**
 
-- `num_dep` (PK)
+- `num_dep` (clé primaire)
 - `departement`
 - `region`
 - `chef_lieu`
@@ -61,31 +59,8 @@ Les élèves créent une base SQLite contenant **36 229 villes** et **101 dépar
 
 ### **Prérequis**
 
-- ✅ **Python 3.x**
-- ✅ **SQLite3**
-
-#
-
-### **1. Cloner le dépôt**
-
-```bash
-git clone https://github.com/votre-username/td-sqlite-geo.git
-cd td-sqlite-geo
-```
-
-#
-
-### **2. Créer la base de données**
-
-```bash
-sqlite3 villes_en_france.db < villes_en_france.db.sql
-```
-
-Ou exécuter le script Python :
-
-```bash
-python "création base SQLite.py"
-```
+- ✅ **Thonny** pour le langage **PYTHON**
+- ✅ **SQLite3** pour LE SGBDR et le **langage SQL**
 
 #
 
@@ -169,20 +144,8 @@ conn.close()
 - Utilisation du module `sqlite3` en Python
 - Traitement et formatage des résultats
 
-#
-
-## 📚 Ressources
-
-- [Documentation SQLite](https://www.sqlite.org/docs.html)
-- [Module sqlite3 Python](https://docs.python.org/3/library/sqlite3.html)
-- Cours SQL
 
 #
 
-## 📄 Licence
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
-#
-
-**Projet pédagogique - Enseignement des données structurées et bases de données**
+👤 Auteur : SERRES Régis Enseignant - Lycée Estournelles de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
