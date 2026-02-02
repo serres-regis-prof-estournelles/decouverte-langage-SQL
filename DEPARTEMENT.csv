@@ -1,0 +1,102 @@
+﻿num_dep;nom_dep;nom_region;chef_lieu;superficie;population;densité
+01;Ain;Auvergne-Rhône-Alpes;Bourg-en-Bresse;5762,4;657856;114,2
+02;Aisne;Hauts-de-France;Laon;7361,7;529374;71,9
+03;Allier;Auvergne-Rhône-Alpes;Moulins;7340,1;335628;45,7
+04;Alpes-de-Haute-Provence;Provence-Alpes-Côte d’Azur;Digne-les-Bains;6925,2;165451;23,9
+05;Hautes-Alpes;Provence-Alpes-Côte d’Azur;Gap;5548,7;140605;25,3
+06;Alpes-Maritimes;Provence-Alpes-Côte d’Azur;Nice;4298,6;1097410;255,3
+07;Ardèche;Auvergne-Rhône-Alpes;Privas;5528,6;329325;59,6
+08;Ardennes;Grand Est;Charleville-Mézières;5229,4;269701;51,6
+09;Ariège;Occitanie;Foix;4889,9;153954;31,5
+10;Aube;Grand Est;Troyes;6004,2;311435;51,9
+11;Aude;Occitanie;Carcassonne;6139;375217;61,1
+12;Aveyron;Occitanie;Rodez;8735,1;279554;32
+13;Bouches-du-Rhône;Provence-Alpes-Côte d’Azur;Marseille;5087,5;2048070;402,6
+14;Calvados;Normandie;Caen;5534,5;697547;125,7
+15;Cantal;Auvergne-Rhône-Alpes;Aurillac;5726;144379;25,2
+16;Charente;Nouvelle-Aquitaine;Angoulême;5956;351718;59,1
+17;Charente-Maritime;Nouvelle-Aquitaine;La Rochelle;6863,8;655709;95,5
+18;Cher;Centre-Val de Loire;Bourges;7235;300933;41,6
+19;Corrèze;Nouvelle-Aquitaine;Tulle;5856,8;239190;40,8
+2A;Corse-du-Sud;Corse;Ajaccio;4014,2;160814;40,1
+2B;Haute-Corse;Corse;Bastia;4665,6;182887;39,2
+21;Côte-d’Or;Bourgogne-Franche-Comté;Dijon;8763,2;535078;61,1
+22;Côtes-d’Armor;Bretagne;Saint-Brieuc;6877,6;603640;87,8
+23;Creuse;Nouvelle-Aquitaine;Guéret;5565,4;115995;20,8
+24;Dordogne;Nouvelle-Aquitaine;Périgueux;9060;412807;45,6
+25;Doubs;Bourgogne-Franche-Comté;Besançon;5232,6;545209;104,2
+26;Drôme;Auvergne-Rhône-Alpes;Valence;6530;517709;79,3
+27;Eure;Normandie;Évreux;6039,9;599668;99,3
+28;Eure-et-Loir;Centre-Val de Loire;Chartres;5880;431443;73,4
+29;Finistère;Bretagne;Quimper;6733;917179;136,2
+30;Gard;Occitanie;Nîmes;5852,8;751457;128,4
+31;Haut-Garonne;Occitanie;Toulouse;6309,3;1415757;224,4
+32;Gers;Occitanie;Auch;6256,8;191819;30,7
+33;Gironde;Nouvelle-Aquitaine;Bordeaux;9975,6;1636391;152,6
+34;Hérault;Occitanie;Montpellier;6101;1188973;194,9
+35;Ille-et-Vilaine;Bretagne;Rennes;6774,7;1088855;160,7
+36;Indre;Centre-Val de Loire;Châteauroux;6790,6;218707;32,2
+37;Indre-et-Loire;Centre-Val de Loire;Tours;6126,7;612119;99,9
+38;Isère;Auvergne-Rhône-Alpes;Grenoble;7431,5;1277513;171,9
+39;Jura;Bourgogne-Franche-Comté;Lons-le-Saunier;4999,2;258798;51,8
+40;Landes;Nouvelle-Aquitaine;Mont-de-Marsan;9242,6;418122;45,2
+41;Loir-et-Cher;Centre-Val de Loire;Blois;6343,4;329357;51,9
+42;Loire;Auvergne-Rhône-Alpes;Saint-Étienne;4780,6;768508;160,7
+43;Haute-Loire;Auvergne-Rhône-Alpes;Le Puy-en-Velay;4977,1;227489;45,7
+44;Loire-Atlantique;Pays de la Loire;Nantes;6874,4;1445171;212,1
+45;Loiret;Centre-Val de Loire;Orléans;6775,2;682304;100,7
+46;Lot;Occitanie;Cahors;5216,5;174670;33,5
+47;Lot-et-Garonne;Nouvelle-Aquitaine;Agen;5360,9;330844;61,7
+48;Lozère;Occitanie;Mende;5166,9;76633;14,8
+49;Maine-et-Loire;Pays de la Loire;Angers;7106,6;820713;114,5
+50;Manche;Normandie;Saint-Lô;5951,5;495093;83,4
+51;Marne;Grand Est;Châlons-en-Champagne;8169,1;566659;69,4
+52;Haute-Marne;Grand Est;Chaumont;6210,6;171798;27,7
+53;Mayenne;Pays de la Loire;Laval;5175,2;306538;59,2
+54;Meurthe-et-Moselle;Grand Est;Nancy;5245,9;732590;139,6
+55;Meuse;Grand Est;Bar-le-Duc;6211,4;183001;29,5
+56;Morbihan;Bretagne;Vannes;6822,6;764161;112
+57;Moselle;Grand Est;Metz;6216,3;1049155;168,8
+58;Nièvre;Bourgogne-Franche-Comté;Nevers;6816,7;202670;29,7
+59;Nord;Hauts-de-France;Lille;5742,8;2607746;454,1
+60;Oise;Hauts-de-France;Beauvais;5860,2;829699;141,6
+61;Orne;Normandie;Alençon;6103,4;278475;45,6
+62;Pas-de-Calais;Hauts-de-France;Arras;6671,4;1462167;219,2
+63;Puy-de-Dôme;Auvergne-Rhône-Alpes;Clermont-Ferrand;7969,7;661852;83
+64;Pyrénées-Atlantiques;Nouvelle-Aquitaine;Pau;7644,8;687240;89,9
+65;Hautes-Pyrénées;Occitanie;Tarbes;4464;229788;51,5
+66;Pyrénées-Orientales;Occitanie;Perpignan;4116;482765;117,3
+67;Bas-Rhin;Grand Est;Strasbourg;4755;1148073;241,4
+68;Haut-Rhin;Grand Est;Colmar;3525,2;767842;217,8
+69;Rhône;Auvergne-Rhône-Alpes;Lyon;3249,1;1883437;579,7
+70;Haute-Saône;Bourgogne-Franche-Comté;Vesoul;5360,1;234601;43,8
+71;Saône-et-Loire;Bourgogne-Franche-Comté;Mâcon;8574,7;551063;64,3
+72;Sarthe;Pays de la Loire;Le Mans;6206;566993;91,4
+73;Savoie;Auvergne-Rhône-Alpes;Chambéry;6028,3;439750;73
+74;Haute-Savoie;Auvergne-Rhône-Alpes;Annecy;4387,8;835206;190,3
+75;Paris;Ile-de-France;Paris;105,4;2145906;20359,6
+76;Seine-Maritime;Normandie;Rouen;6277,6;1254739;199,9
+77;Seine-et-Marne;Ile-de-France;Melun;5915,3;1428636;241,5
+78;Yvelines;Ile-de-France;Versailles;2284,4;1449723;634,7
+79;Deux-Sèvres;Nouvelle-Aquitaine;Niort;5999,4;374481;62,4
+80;Somme;Hauts-de-France;Amiens;6170,1;568748;92,2
+81;Tarn;Occitanie;Albi;5757,9;391066;67,9
+82;Tarn-et-Garonne;Occitanie;Montauban;3718,3;262316;70,6
+83;Var;Provence-Alpes-Côte d’Azur;Toulon;5972,5;1085189;181,7
+84;Vaucluse;Provence-Alpes-Côte d’Azur;Avignon;3567,3;561941;157,5
+85;Vendée;Pays de la Loire;La Roche-sur-Yon;6719,6;692705;103,1
+86;Vienne;Nouvelle-Aquitaine;Poitiers;6990,4;439332;62,9
+87;Haute-Vienne;Nouvelle-Aquitaine;Limoges;5520,1;372123;67,4
+88;Vosges;Grand Est;Épinal;5873,8;362397;61,7
+89;Yonne;Bourgogne-Franche-Comté;Auxerre;7427,4;334156;45
+90;Territoire de Belfort;Bourgogne-Franche-Comté;Belfort;609,4;140120;230,1
+91;Essonne;Ile-de-France;Évry-Courcouronnes;1804,4;1306118;724
+92;Hauts-de-Seine;Ile-de-France;Nanterre;175,6;1626213;9239,8
+93;Seine-Saint-Denis;Ile-de-France;Bobigny;236,2;1655422;7014,5
+94;Val-de-Marne;Ile-de-France;Créteil;245;1407972;5746,8
+95;Val-d’Oise;Ile-de-France;Pontoise;1245,9;1251804;1004,7
+971;Guadeloupe;Guadeloupe;Basse-Terre;1628,4;383559;235,5
+972;Martinique;Martinique;Fort-de-France;1128;361225;320,2
+973;Guyane;Guyane;Cayenne;83533,9;285133;3,4
+974;La Réunion;La Réunion;Saint-Denis;2503,7;863083;344,7
+976;Mayotte;Mayotte;Dzaoudzi;376;256518;682,2
